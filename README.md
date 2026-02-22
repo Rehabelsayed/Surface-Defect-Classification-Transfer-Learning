@@ -1,6 +1,5 @@
 # Surface-Defect-Classification-Transfer-Learning
 Industrial surface defect classification using DenseNet121 with transfer learning and fine-tuning (NEU Dataset).
-# Surface Defect Classification using Transfer Learning
 
 ## Project Overview
 This project applies transfer learning using a pre-trained DenseNet121 model to classify industrial surface defects from the NEU Surface Defect Dataset.
